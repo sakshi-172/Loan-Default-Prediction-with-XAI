@@ -124,5 +124,3 @@ Accurate credit risk assessment is critical in digital lending. This project bui
 - Chunni Lal  
 
 ---
-
-## ⭐ Star this repo if you found it useful!
