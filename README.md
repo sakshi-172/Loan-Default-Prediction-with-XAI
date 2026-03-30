@@ -116,11 +116,8 @@ Accurate credit risk assessment is critical in digital lending. This project bui
 ---
 
 
-## 👩‍💻 Authors
+## 👩‍💻 Author
 
-- Sakshi  
-- Sandeep Singh  
-- Apsarika  
-- Chunni Lal  
+- Sakshi 
 
 ---
